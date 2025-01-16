@@ -8,6 +8,7 @@
                 "updated_at": "2025-01-10T16:10:25Z",
                 "public_url": "https://www.analog.com/en/resources/evaluation-hardware-and-software/embedded-development-software/software-download.html?swpart=SD_O1OMZSJ",
                 "topics": [
+                    "own installer with new installation folder",
                     "general bugfixing",
                     "UblCli support"
                 ]
@@ -18,7 +19,7 @@
                 "updated_at": "2024-11-28T15:22:25Z",
                 "public_url": "https://www.analog.com/en/resources/evaluation-hardware-and-software/embedded-development-software/software-download.html?swpart=SD_QK87DQ1",
                 "topics": [
-                    "Improved CANopen support",
+                    "improved CANopen support",
                     "add TMCM-3216",
                     "add TMC9660"
                 ]
